@@ -1,0 +1,13 @@
+{
+      "pages": [
+          "page_home"
+        , "page_about"
+        , "page_error"
+        , "page_contact"
+    ]
+    , "blocks" : [
+          "block_footer"
+        , "block_header"
+        , "block_menu"
+    ]
+}
